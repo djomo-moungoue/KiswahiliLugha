@@ -7,4 +7,13 @@ Kiswahili signifie signifie litt. en francais "de la côte".
 - Elle est la langue officcielle de la Tanzanie et du Kenya.
 - Elle est en partie parlé dans tous les pays de la côte est africaine, à l'intar du Burundi, Rwanda, de l'Uganda, de la Somilie, du Mozambique, de la Zambie. Elle est également parlé à l'Est RDC situé en Afrique centrale.
 
+## Alphabet
+L'alphabet Kiswahili utile 24/26 lettres de l'alphabet anglais en excluant les lettres Q, X et en utilisant la lettre C toujours combinée à la lettre H, sous la forme "CH".
+
+### Voyelles
+
+### Consonnes
+
+### Syllables
+
 
