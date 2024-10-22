@@ -20,30 +20,30 @@ Il existe 5 voyelles au total:
 
 ### Syllabes
 Il existe 25 (27) syllabes au total dont 15 à 2 lettres et 10(12) à 3 lettres
-1) Baton: BA  BE  BI  BO  BU
-2) Chacal: CHA  CHE  CHI  CHO  CHU
-3) Damier: DA  DE  DI  DO  DU
-4) DHA/THA  DHE/THE  DHE/THE  DHO/THO  DHU/THU (son arabe)
-5) Famille: FA  FE  FI  FO  FU
-6) Gare: GA  GE  GI  GO  GU
-7) GHA/KHA  GHE/KHE  GHE/KHE  GHO/KHO  GHU/KHU (son arabe)
-8) Hache: HA  HE  HI  HO  HU
-9) Jamais: JA  JE  JI  JO  JU
-10) Lame: LA  LE  LI  LO  LU
-11) Maman: MA  ME  MI  MO  MU
-12) Mbām: MBA  MBE  MBI  MBO  MBU
-13) Nappe: NA  NE  NI  NO  NU
-14) Ndāk: NDA  NDE  NDI  NDO  NDU
-15) Ngāk: NGA  NGE  NGI  NGO  NGU
-16) Njām: NJA  NJE  NJI  NJO  NJU
-17) NYA  NYE  NYI  NYO  NYU
-18) Papa: PA  PE  PI  PO  PU
-19) Rare: RA  RE  RI  RO  RU
-20) Shī: SHA  SHE  SHI  SHO  SHU
-21) Tata:  TA  TE  TI  TO  TU
-22) ValvE: VA  VE  VI  VO  VU
-23) Wahou: WA  WE  WI  WO  WU
-24) Yaourt:  YA  YE  YI  YO  YU
-25) Zêbre: ZA  ZE  ZI  ZO  ZU
+1) Baton (français): BA  BE  BI  BO  BU
+2) Chacal (français): CHA  CHE  CHI  CHO  CHU
+3) Damier (français): DA  DE  DI  DO  DU
+4) Thought (anglais) DHA/THA  DHE/THE  DHE/THE  DHO/THO  DHU/THU (son arabe)
+5) Famille (français): FA  FE  FI  FO  FU
+6) Gare (français): GA  GE  GI  GO  GU
+7) ghāp/ghām (nufi): GHA/KHA  GHE/KHE  GHE/KHE  GHO/KHO  GHU/KHU (son arabe)
+8) Hache (français): HA  HE  HI  HO  HU
+9) Jamais (français): JA  JE  JI  JO  JU
+10) Lame (français): LA  LE  LI  LO  LU
+11) Maman (français): MA  ME  MI  MO  MU
+12) Mbām (nufi): MBA  MBE  MBI  MBO  MBU
+13) Nappe (français): NA  NE  NI  NO  NU
+14) Ndāk (nufi): NDA  NDE  NDI  NDO  NDU
+15) Ngāk (nufi): NGA  NGE  NGI  NGO  NGU
+16) Njām (nufi): NJA  NJE  NJI  NJO  NJU
+17) Nyama (kiswahili) NYA  NYE  NYI  NYO  NYU
+18) Papa (français): PA  PE  PI  PO  PU
+19) Rare (français): RA  RE  RI  RO  RU
+20) Shī (nufi): SHA  SHE  SHI  SHO  SHU
+21) Tata (français):  TA  TE  TI  TO  TU
+22) Valve (français): VA  VE  VI  VO  VU
+23) Wahou (français): WA  WE  WI  WO  WU
+24) Yaourt (français):  YA  YE  YI  YO  YU
+25) Zō (nufi): ZA  ZE  ZI  ZO  ZU
 
 
