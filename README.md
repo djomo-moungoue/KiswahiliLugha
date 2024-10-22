@@ -23,10 +23,10 @@ Il existe 25 (27) syllabes au total dont 15 à 2 lettres et 10(12) à 3 lettres
 1) Baton: BA  BE  BI  BO  BU
 2) Chacal: CHA  CHE  CHI  CHO  CHU
 3) Damier: DA  DE  DI  DO  DU
-4)* DHA/THA  DHE/THE  DHE/THE  DHO/THO  DHU/THU (son arabe)
+4) DHA/THA  DHE/THE  DHE/THE  DHO/THO  DHU/THU (son arabe)
 5) Famille: FA  FE  FI  FO  FU
 6) Gare: GA  GE  GI  GO  GU
-7)* GHA/KHA  GHE/KHE  GHE/KHE  GHO/KHO  GHU/KHU (son arabe)
+7) GHA/KHA  GHE/KHE  GHE/KHE  GHO/KHO  GHU/KHU (son arabe)
 8) Hache: HA  HE  HI  HO  HU
 9) Jamais: JA  JE  JI  JO  JU
 10) Lame: LA  LE  LI  LO  LU
