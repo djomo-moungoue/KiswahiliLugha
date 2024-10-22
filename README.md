@@ -16,7 +16,7 @@ Il existe 5 voyelles au total:
 2) Ee comme dans tête, ex. embe = mangue
 3) Ii comme dans fil, ex. kiti = chaise
 4) Oo comme dans oncle, ex. choo = toilettes
-5) U comme dans outre, ex. tunda = fruit
+5) Uu comme dans outre, ex. tunda = fruit
 
 ### Syllabes
 Il existe 25 (27) syllabes au total dont 15 à 2 lettres et 10(12) à 3 lettres
