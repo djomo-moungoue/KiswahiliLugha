@@ -47,12 +47,12 @@ Il existe 25 (27) syllabes au total dont 15 à 2 lettres et 10 (12) à 3 lettres
 25) Zō (nufi): ZA  ZE  ZI  ZO  ZU
 
 ## Prononciation - Articulation
-En kiswahili, les locuteurs natifs insistent généralement sur l'avant dernière syllabe des mots.
+En kiswahili, les locuteurs natifs insistent généralement sur l'avant dernière syllabe des mots. Autrement dit, toutes les syllabes ont le ton descendant 1 (nshʉ̀' de la langue nufi, ouest Cameroun) excepté l'avant dernière syllabe qui a le ton moyen 3 (tāā de la langue nufi, ouest Cameroun) 
 
 Exemples d'illustration:
-1) 1 syllabe: **NI**
-2) 2 syllabes: **BA**-ba
-3) 3 syllabes: ha-**BA**-ri
-4) 4 syllabes: zu-ngu-**M**-za
+1) 1 syllabe: **NI** (nī alphacam)
+2) 2 syllabes: **BA**-ba (bābà alphacam)
+3) 3 syllabes: ha-**BA**-ri, nyu**MBA**ni (hàbārì, nyùmbānì alphacam)
+4) 4 syllabes: zu-ngu-**M**-za (zùngùm̄zà alphacam)
 
 
