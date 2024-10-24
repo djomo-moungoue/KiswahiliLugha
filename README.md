@@ -46,4 +46,13 @@ Il existe 25 (27) syllabes au total dont 15 à 2 lettres et 10 (12) à 3 lettres
 24) Yaourt (français):  YA  YE  YI  YO  YU
 25) Zō (nufi): ZA  ZE  ZI  ZO  ZU
 
+## Prononciation - Articulation
+En kiswahili, les locuteurs natifs insistent généralement sur l'avant dernière syllabe des mots.
+
+Exemples d'illustration:
+1) 1 syllabe: **NI**
+2) 2 syllabes: **BA**-ba
+3) 3 syllabes: ha-**BA**-ri
+4) 4 syllabes: zu-ngu-**M**-za
+
 
