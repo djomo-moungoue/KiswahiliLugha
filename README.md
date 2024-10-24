@@ -28,24 +28,25 @@ Il existe 25 (27) syllabes au total dont 15 à 2 lettres et 10 (12) à 3 lettres
 |4|DHA/THA|DHE/THE|DHI/THI|DHU/THU|||think|thelatini|son arabe|
 |5|FA|FE|FI|FO|U||famille|familia||
 |6|GA|GE|GI|GO|GU|||||
-|7|GHA/KHA|GHE/KHE|DHI/THI|GHO/KHO|GHU/KHU||||son arabe|
+|7|GHA/KHA|GHE/KHE|DHI/THI|GHO/KHO|GHU/KHU|||ghali, khamis|son arabe|
 |8|HA|HE|HI|HO|HU|cām||chai||
-|9|KA|KE|KI|KO|KU|||||
-|10|LA|LE|LI|LO|LU|||||
-|11|MA|ME|MI|MO|MU|||||
-|12|MBA|MBE|MBI|MBO|MBU|Mbām||dada||
-|13|NA|NE|NI|NO|NU||nappe|||
-|14|NDA|NDE|NDI|NDO|NDU|ndāk||||
+|9|JA|JE|JI|JO|JU|njām||||
+|10|KA|KE|KI|KO|KU|||||
+|11|LA|LE|LI|LO|LU|||||
+|12|MA|ME|MI|MO|MU|||||
+|13|MBA|MBE|MBI|MBO|MBU|Mbām||dada||
+|14|NA|NE|NI|NO|NU||nappe|||
+|15|NDA|NDE|NDI|NDO|NDU|ndāk||||
 |15|NGA|NGE|NGI|NGO|NGU|ngāk||||
-|16||||||||||
-|17||||||||||
-|18||||||||||
-|19||||||||||
-|20||||||||||
-|21||||||||||
-|22||||||||||
-|23||||||||||
-|24||||||||||
+|16|NYA|NYE|NYI|NYO|NYU|||nyama||
+|17|PA|PE|PI|PO|PU||papa|||
+|18|RA|RE|RI|RO|RU||rang|||
+|19|SHA|SHE|SHI|SHO|SHU|Shī||||
+|20|TA|TE|TI|TO|TU||tamtam|||
+|21|VAVE|VI|V|VU||valve||||
+|22|WA|WE|WI|WO|WU||watt|||
+|23|YA|YE|YI|YO|YU||yaourt|||
+|24|ZA|ZE|ZI|ZO|ZU|zō||||
 |25||||||||||
 
 1) Banque (français): BA  BE  BI  BO  BU
