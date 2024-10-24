@@ -20,19 +20,34 @@ Il existe 5 voyelles au total:
 
 ### Syllabes
 Il existe 25 (27) syllabes au total dont 15 à 2 lettres et 10 (12) à 3 lettres.
-| :N°: | :Aa:  | :Ee:  | :Ii: | :Oo: | :Uu: | :mots nufi: | :mots français/anglais: | :mots kiswahili: |
-|---|---|---|---|---|---|---|---|---|
-|1|BA|BE|BI|BO|BU||banque|baba|
-|2|CHA|CHE|CHI|CHO|CHU|cām||chai|
-|3|DA|DE|DI|DO|DU|damier||dada|
-|4|DHA/THA|DHE/THE|DHI/THI|DHU/THU|||think|thelatini|
-|5|FA|FE|FI|FO|U||famille|familia|
-||||||||||
-||||||||||
-||||||||||
-||||||||||
-||||||||||
-||||||||||
+| N° | Aa  | Ee  | Ii | Oo | Uu | mots nufi | mots français/anglais | mots kiswahili | commentaire |
+|---|---|---|---|---|---|---|---|---|---|
+|1|BA|BE|BI|BO|BU||banque|baba||
+|2|CHA|CHE|CHI|CHO|CHU|cām||chai||
+|3|DA|DE|DI|DO|DU|damier||dada||
+|4|DHA/THA|DHE/THE|DHI/THI|DHU/THU|||think|thelatini|son arabe|
+|5|FA|FE|FI|FO|U||famille|familia||
+|6|GA|GE|GI|GO|GU|||||
+|7|GHA/KHA|GHE/KHE|DHI/THI|GHO/KHO|GHU/KHU||||son arabe|
+|8|HA|HE|HI|HO|HU|cām||chai||
+|9|KA|KE|KI|KO|KU|||||
+|10|LA|LE|LI|LO|LU|||||
+|11|MA|ME|MI|MO|MU|||||
+|12|MBA|MBE|MBI|MBO|MBU|Mbām||dada||
+|13|NA|NE|NI|NO|NU||nappe|||
+|14|NDA|NDE|NDI|NDO|NDU|ndāk||||
+|15|NGA|NGE|NGI|NGO|NGU|ngāk||||
+|16||||||||||
+|17||||||||||
+|18||||||||||
+|19||||||||||
+|20||||||||||
+|21||||||||||
+|22||||||||||
+|23||||||||||
+|24||||||||||
+|25||||||||||
+
 1) Banque (français): BA  BE  BI  BO  BU
 2) cām (nufi): CHA  CHE  CHI  CHO  CHU
 3) Damier (français): DA  DE  DI  DO  DU
