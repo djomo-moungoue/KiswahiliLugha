@@ -20,6 +20,19 @@ Il existe 5 voyelles au total:
 
 ### Syllabes
 Il existe 25 (27) syllabes au total dont 15 à 2 lettres et 10 (12) à 3 lettres.
+| :N°: | :Aa:  | :Ee:  | :Ii: | :Oo: | :Uu: | :mots nufi: | :mots français/anglais: | :mots kiswahili: |
+|---|---|---|---|---|---|---|---|---|
+|1|BA|BE|BI|BO|BU||banque|baba|
+|2|CHA|CHE|CHI|CHO|CHU|cām||chai|
+|3|DA|DE|DI|DO|DU|damier||dada|
+|4|DHA/THA|DHE/THE|DHI/THI|DHU/THU|||think|thelatini|
+|5|FA|FE|FI|FO|U||famille|familia|
+||||||||||
+||||||||||
+||||||||||
+||||||||||
+||||||||||
+||||||||||
 1) Banque (français): BA  BE  BI  BO  BU
 2) cām (nufi): CHA  CHE  CHI  CHO  CHU
 3) Damier (français): DA  DE  DI  DO  DU
